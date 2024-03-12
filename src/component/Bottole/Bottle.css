@@ -1,0 +1,10 @@
+.bottle-item{
+  border: 2px solid skyblue;
+  border-radius: 15px;
+  padding: 15px;  
+}
+
+.bottle-item img{
+  width: 200px;
+  border-radius: 15px;
+}
